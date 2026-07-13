@@ -44,8 +44,8 @@ def main():
  
         if choice == "1":
             print(f"Result: {add(a, b)}")
-        # elif choice == "2":
-        #     print(f"Result: {subtract(a, b)}")
+        elif choice == "2":
+            print(f"Result: {subtract(a, b)}")
         # elif choice == "3":
         #     print(f"Result: {multiply(a, b)}")
         # elif choice == "4":
